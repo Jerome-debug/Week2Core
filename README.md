@@ -1,2 +1,2 @@
 # Week2Core
-Exploratory Data Analysis
+Python Notebook on Exploratory Data Analysis on a Financial Firm
